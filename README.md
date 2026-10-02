@@ -1,7 +1,7 @@
 # About me
 Thank you for visiting my GitHub!
 
-While detailed information about my projects can be found in each repository, I have also prepared PDF portfolios that provide a concise overview of my work and experience.
+While detailed information about my projects can be found in each repository, I have also uploaded PDF portfolios that provide a concise overview of my work and experience.
 
 1. [Bioinformatics Portfolio](https://drive.google.com/file/d/18QI96D72vMp_1Ih6Imh6mIMKSzu9X8-k/view?usp=drive_link)
 
