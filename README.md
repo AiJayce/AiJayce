@@ -16,11 +16,11 @@ For the source code and details of my ongoing projects, please refer to the corr
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="200" height="250" alt="Diffusion model" src="https://github.com/user-attachments/assets/a19e0823-0ae6-4610-8338-dce97bd432ae" />|<img width="200" height="250" alt="graph theory" src="https://github.com/user-attachments/assets/ab783ccd-e52c-4edf-8555-42bca6b51a96" />| <img width="200" height="250" alt="SQL과 PL" src="https://github.com/user-attachments/assets/8f8f7bec-f9da-4145-b826-0690be782aa8" />|<img width="200" height="250" alt="단단한 강화학습" src="https://github.com/user-attachments/assets/ef00402f-ec77-4d03-928b-12004db91379" />| <img width="200" height="250" alt="당신의 생명을 지켜주는 경이로운 작은 우주" src="https://github.com/user-attachments/assets/75f21293-22b5-4768-ab80-5bbdeac2070b" />
 
-| 데이터 마이닝 | 데이터베이스 관리 | 딥러닝 파이토치 교과서 | 모두의 딥러닝 | 바이오 파이썬 |
+| 데이터 마이닝 | 데이터베이스 관리 | 딥러닝 파이토치 | 모두의 딥러닝 | 바이오 파이썬 |
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="200" height="250" alt="데이터마이닝" src="https://github.com/user-attachments/assets/bff0beb3-7d71-4199-831b-08b959f34660" /> |<img width="200" height="250" alt="데이터베이스 관리와 실습" src="https://github.com/user-attachments/assets/f83815d0-a1c0-46e0-89ee-ad0cd65031cb" /> | <img width="200" height="250" alt="딥러닝 파이토치 교과서" src="https://github.com/user-attachments/assets/6fc3dab0-6bea-4874-8303-cd3c6895b4a0" />|<img width="200" height="250" alt="모두의 딥러닝" src="https://github.com/user-attachments/assets/16c7a75c-2b74-43fd-9c69-b602c9aedaec" />| <img width="200" height="250" alt="바이오 파이썬으로 만나는 생물정보학" src="https://github.com/user-attachments/assets/2e4648b3-fee2-4f3d-81bd-34689628dab2" />
 
-| 생물정보학 알고리듬 | 실전예제로 배우는 GAN | 선형대수 | 왓슨 분자생물학 | 강화학습 실전 |
+| 생물정보학 알고리듬 | 실전예제 GAN | 선형대수 | 왓슨 분자생물학 | 강화학습 실전 |
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="200" height="250" alt="생물정보학 알고리듬" src="https://github.com/user-attachments/assets/6d19e377-9107-459a-b947-810753f8c545" />|<img width="200" height="250" alt="실전예제로 배우는 GAN" src="https://github.com/user-attachments/assets/cd3feae6-fd24-4649-beb1-647bbb1e6dfd" /> | <img width="200" height="250" alt="알고리즘 구현으로 배우는 선형대수" src="https://github.com/user-attachments/assets/b26bbf11-ceaf-42dd-aa91-3e829a541da7" />|<img width="200" height="250" alt="왓슨 분자생물학" src="https://github.com/user-attachments/assets/0c9f8931-1d74-41a1-a2bb-b36d052a7135" /> | <img width="200" height="300" alt="파이썬과 케라스로 배우는 강화학습" src="https://github.com/user-attachments/assets/4f020349-278a-4174-8da6-819383508420" /> | <img width="200" height="300" alt="파이썬과 케라스로 배우는 강화학습" src="https://github.com/user-attachments/assets/569c29a1-799b-45f5-9e33-76b774fadec1" />
 
