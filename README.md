@@ -14,5 +14,6 @@ For the source code and details of my ongoing projects, please refer to the corr
 
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <img src="이미지URL1" width="150"><br>**책 제목 1** | <img src="이미지URL2" width="150"><br>**책 제목 2** | <img src="이미지URL3" width="150"><br>**책 제목 3** | <img src="이미지URL4" width="150"><br>**책 제목 4** |
+| <img src="<img width="458" height="615" alt="Diffusion model" src="https://github.com/user-attachments/assets/5791c0af-c31e-43af-a4d7-52388c63b337" />
+" width="150"><br>**책 제목 1** | <img src="이미지URL2" width="150"><br>**책 제목 2** | <img src="이미지URL3" width="150"><br>**책 제목 3** | <img src="이미지URL4" width="150"><br>**책 제목 4** |
 | <img src="이미지URL5" width="150"><br>**책 제목 5** | <img src="이미지URL6" width="150"><br>**책 제목 6** | <img src="이미지URL7" width="150"><br>**책 제목 7** | <img src="이미지URL8" width="150"><br>**책 제목 8** |
