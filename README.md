@@ -14,7 +14,7 @@ For the source code and details of my ongoing projects, please refer to the corr
 
 To strengthen the background knowledge and data science skills required for my research, I independently studied the following books. The books can be broadly categorized into three areas: Biology, Data Science, and Data Engineering.
 
-| Diffusion model | Graph Theory | SQL과 PL | 단단한 강화학습 | 면역 |
+| Diffusion model | Graph Theory | Oracle | 단단한 강화학습 | 면역 |
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="180" height="200" alt="Diffusion model" src="https://github.com/user-attachments/assets/a19e0823-0ae6-4610-8338-dce97bd432ae" />|<img width="180" height="200" alt="graph theory" src="https://github.com/user-attachments/assets/ab783ccd-e52c-4edf-8555-42bca6b51a96" />| <img width="180" height="200" alt="SQL과 PL" src="https://github.com/user-attachments/assets/8f8f7bec-f9da-4145-b826-0690be782aa8" />|<img width="180" height="200" alt="단단한 강화학습" src="https://github.com/user-attachments/assets/ef00402f-ec77-4d03-928b-12004db91379" />| <img width="180" height="200" alt="당신의 생명을 지켜주는 경이로운 작은 우주" src="https://github.com/user-attachments/assets/75f21293-22b5-4768-ab80-5bbdeac2070b" /> |
 
