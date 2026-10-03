@@ -3,7 +3,7 @@ Thank you for visiting my GitHub!
 
 While detailed information about my projects can be found in each repository, I have also uploaded PDF portfolios that provide a concise overview of my work and experience.
 
-1. [Bioinformatics Portfolio]
+1. [Bioinformatics Portfolio](https://drive.google.com/file/d/1hSvFVQdONo-WekxUahZTzik-0IJo-ML-/view?usp=drive_link)
 
 2. [Awards & Competitions](https://drive.google.com/file/d/1QM5JdgBZ1f9DH2ezkRHTFAJ5oEUy_BiF/view?usp=drive_link)
 
