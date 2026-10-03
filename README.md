@@ -12,7 +12,8 @@ For the source code and details of my ongoing projects, please refer to the corr
 
 # Books read
 
+# Books Read
+
 | | | | |
 |:---:|:---:|:---:|:---:|
-| <br>**책 제목 5** <img src=<img width="458" height="615" alt="Diffusion model" src="https://github.com/user-attachments/assets/d538a23d-53c9-4a0d-8339-848361d91cf8" />|
-| <img src="이미지URL5" width="150"><br>**책 제목 5** | <img src="이미지URL6" width="150"><br>**책 제목 6** | <img src="이미지URL7" width="150"><br>**책 제목 7** | <img src="이미지URL8" width="150"><br>**책 제목 8** |
+| <br>책 제목 5<br><img width="200" src="https://github.com/user-attachments/assets/d538a23d-53c9-4a0d-8339-848361d91cf8"> |
