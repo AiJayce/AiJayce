@@ -24,7 +24,7 @@ For the source code and details of my ongoing projects, please refer to the corr
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img width="150" height="180" src="https://github.com/user-attachments/assets/818c69b3-0d1b-40be-8234-a26d89c1c08b" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/422e8221-ae0e-4fcb-b1b4-e1e704e0e2b9" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/bff0beb3-7d71-4199-831b-08b959f34660" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/2968f3da-52b6-4c55-b00a-664ea40c0f40" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/2550e973-fbc2-4776-91c8-2954510e4fce" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/f83815d0-a1c0-46e0-89ee-ad0cd65031cb" /> |
 
-| Oracle (SQL과 PL) | 파이썬 웹 스크레이핑 | 바이오 파이썬 | 생물정보학 알고리듬 | 유전체 데이터 분석 | 면역 |
+| Oracle (SQL과 PL) | 파이썬 스크레이핑 | 바이오 파이썬 | 생물정보 알고리듬 | 유전체 데이터 분석 | 면역 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | <img width="150" height="180" src="https://github.com/user-attachments/assets/8f8f7bec-f9da-4145-b826-0690be782aa8" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/f466dc08-5005-44b7-9d47-e89986b6c665" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/2e4648b3-fee2-4f3d-81bd-34689628dab2" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/6d19e377-9107-459a-b947-810753f8c545" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/f65eb9e3-5c66-436c-b0b4-8e1d63c6e694" /> | <img width="150" height="180" src="https://github.com/user-attachments/assets/75f21293-22b5-4768-ab80-5bbdeac2070b" /> |
 
