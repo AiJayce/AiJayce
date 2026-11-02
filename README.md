@@ -29,3 +29,11 @@ To strengthen the background knowledge and data science skills required for my r
 | 파이썬웹스크레이핑 | 혼공데이터분석 | 혼공머신러닝 | CRISPR | 트랜스포머 실전 |
 |:---:|:---:|:---:|:---:|:---:|
 | <img width="180" height="200" alt="파이썬웹스크레이핑" src="https://github.com/user-attachments/assets/f466dc08-5005-44b7-9d47-e89986b6c665" />|<img width="180" height="200" alt="혼공데이터분석" src="https://github.com/user-attachments/assets/2968f3da-52b6-4c55-b00a-664ea40c0f40" />| <img width="180" height="200" alt="혼공머신러닝" src="https://github.com/user-attachments/assets/2550e973-fbc2-4776-91c8-2954510e4fce" />|<img width="180" height="200" alt="CRISPR" src="https://github.com/user-attachments/assets/4cb97c58-c3ae-4328-b0d0-7b81ccf4b2e1" /> | <img width="180" height="200" alt="트랜스포머" src="https://github.com/user-attachments/assets/23e7bea2-429c-40f6-8027-87ce00140c40" />|
+
+| Differential Equation | Linear_algebra | Statistics | 딥러닝전이학습 | 모두의딥러닝 |
+|:---:|:---:|:---:|:---:|:---:|
+| <img width="180" height="200" alt="Differential Equation" src="https://github.com/user-attachments/assets/818c69b3-0d1b-40be-8234-a26d89c1c08b" />|<img width="180" height="200" alt="Linear_algebra" src="https://github.com/user-attachments/assets/1583b3e0-bfc8-4ddf-bbd3-26130af57192" />|<img width="1051" height="1360" alt="Statistics" src="https://github.com/user-attachments/assets/422e8221-ae0e-4fcb-b1b4-e1e704e0e2b9" />|<img width="180" height="200" alt="딥러닝전이학습" src="https://github.com/user-attachments/assets/edd879e8-3e1f-4d51-9c9d-8dbb042bbcb2" />|<img width="180" height="200" alt="모두의딥러닝" src="https://github.com/user-attachments/assets/44c578d3-5d8b-49fb-9355-1ed463d09d17" />|
+
+|유전체데이터분석|
+|:---:|
+| <img width="180" height="200" alt="유전체데이터분석" src="https://github.com/user-attachments/assets/f65eb9e3-5c66-436c-b0b4-8e1d63c6e694" />|
