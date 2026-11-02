@@ -32,7 +32,7 @@ To strengthen the background knowledge and data science skills required for my r
 
 | Differential Equation | Linear_algebra | Statistics | 딥러닝전이학습 | 모두의딥러닝 |
 |:---:|:---:|:---:|:---:|:---:|
-| <img width="180" height="200" alt="Differential Equation" src="https://github.com/user-attachments/assets/818c69b3-0d1b-40be-8234-a26d89c1c08b" />|<img width="180" height="200" alt="Linear_algebra" src="https://github.com/user-attachments/assets/1583b3e0-bfc8-4ddf-bbd3-26130af57192" />|<img width="1051" height="1360" alt="Statistics" src="https://github.com/user-attachments/assets/422e8221-ae0e-4fcb-b1b4-e1e704e0e2b9" />|<img width="180" height="200" alt="딥러닝전이학습" src="https://github.com/user-attachments/assets/edd879e8-3e1f-4d51-9c9d-8dbb042bbcb2" />|<img width="180" height="200" alt="모두의딥러닝" src="https://github.com/user-attachments/assets/44c578d3-5d8b-49fb-9355-1ed463d09d17" />|
+| <img width="180" height="200" alt="Differential Equation" src="https://github.com/user-attachments/assets/818c69b3-0d1b-40be-8234-a26d89c1c08b" />|<img width="180" height="200" alt="Linear_algebra" src="https://github.com/user-attachments/assets/1583b3e0-bfc8-4ddf-bbd3-26130af57192" />|<img width="180" height="200" alt="Statistics" src="https://github.com/user-attachments/assets/422e8221-ae0e-4fcb-b1b4-e1e704e0e2b9" />|<img width="180" height="200" alt="딥러닝전이학습" src="https://github.com/user-attachments/assets/edd879e8-3e1f-4d51-9c9d-8dbb042bbcb2" />|<img width="180" height="200" alt="모두의딥러닝" src="https://github.com/user-attachments/assets/44c578d3-5d8b-49fb-9355-1ed463d09d17" />|
 
 |유전체데이터분석|
 |:---:|
