@@ -5,7 +5,7 @@ While detailed information about my projects can be found in each repository, I 
 
 1. [Bioinformatics Portfolio](https://drive.google.com/file/d/1hSvFVQdONo-WekxUahZTzik-0IJo-ML-/view?usp=drive_link)
 
-2. [Awards & Competitions](https://drive.google.com/file/d/1QM5JdgBZ1f9DH2ezkRHTFAJ5oEUy_BiF/view?usp=drive_link)
+2. [Awards & Competitions](https://drive.google.com/file/d/1CORkIh_LVejeNr-KfK_sHGUKP0BuyhSa/view?usp=drive_link)
 
 For the source code and details of my ongoing projects, please refer to the corresponding repositories.
 
